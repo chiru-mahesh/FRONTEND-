@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Stencil:ital,wght@0,100..900;1,100..900&display=swap');
+.group p{
+      font-family: "Saira Stencil", sans-serif;
+}
+
+
+
+.group{
+    /* background-color:pink; */ 
+   /* background: linear-gradient(180deg, pink,green,purple); */
+
+   background-image: url('https://th.bing.com/th/id/OIP.B4jkpPZZO_OIlyLeTegoyAHaEK?w=325&h=183&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3');
+
+    width:100vw;
+    height:100vh;
+    color: white;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+
+   /* backgound-postion:calc(-300px); */
+}
+
+   /*Box Model */
+   /*MARGIN,PADDING,BORDER//
+   /*solid,double,dotted,dashed,groove*/
+
+
+#box{
+    border:2px solid red;
+    width:150px;
+    background-color:#ffce12;;
+    border-radius:20px;
+    padding: 30px;
+    /*padding: 10px 40px 80px 120px;*/
+    /*px(smaller unit),(larger unit)%*/
+    margin:40px;
+    /*margin: 200px 0px 0px 500px;*/
+}

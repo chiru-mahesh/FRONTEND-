@@ -1,0 +1,38 @@
+p
+{
+    color:blue
+}
+
+h1
+{
+    color:green
+}
+
+
+/* class '.',id '#' */
+
+h2{
+    color:aqua
+}
+
+.adithya
+{
+    color:aquamarine
+}
+
+#sesi
+{
+    
+    color:red;
+    background-color:black;
+}
+
+#sesi:hover{
+    background-color:pink;
+    color: brown;
+} n
+
+.one h1{
+    color:green;
+}
+
